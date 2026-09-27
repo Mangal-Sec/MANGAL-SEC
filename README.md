@@ -1,4 +1,4 @@
-# Hi, I'm Cyba 👋
+# Hi, I'm Mangal 👋
 
 ### Offensive Security | Security Research | Linux
 
@@ -21,7 +21,7 @@ My work focuses on hands-on experimentation, technical research, and documenting
 ## 🛠️ Technologies & Tools
 
 * **Operating Systems:** Kali Linux, Linux
-* **Programming:** Python, Bash
+* **Programming:** Python, Bash ,Rust
 * **Web Security:** Burp Suite, OWASP
 * **Network Analysis:** Wireshark
 * **Lab Environment:** Docker, Virtual Machines
